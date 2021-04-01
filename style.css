@@ -139,7 +139,7 @@ img{
 
 
 .grid-3 {
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 
@@ -187,3 +187,20 @@ img{
     align-items: center;
     height:100%;
 }
+
+/* .my-1{
+    margin: 1rem 0;
+}
+
+.my-2{
+    margin: 1.5rem 0;
+}
+.my-3{
+    margin: 2rem 0;
+}
+.my-4{
+    margin: 3rem 0;
+}
+.my-5{
+    margin: 4rem 0;
+} */
